@@ -20,7 +20,7 @@ A pipeline for generating short-form educational videos with AI planning, voiceo
 - LLM-based planning, TTS, asset generation, and final video export
 - Built as a full workflow instead of a single-script demo
 
-### [Akshara OCR](https://github.com/RandomArtist22/AksharaOCR)
+### [Akshara OCR](https://github.com/JayHire06/akshara-ocr)
 A collaborative OCR project for complex documents. This is a team repository, and I’m linking directly to the shared repo page.
 
 - FastAPI backend, React frontend, and Docker-based local stack
