@@ -1,6 +1,6 @@
 # Hi, I'm Ramcharan
 
-I build AI/ML products, full-stack web apps, and developer tools. I'm looking for software engineering and AI internships where I can contribute to real products, learn fast, and ship end-to-end features.
+I build AI/ML products, full-stack web apps, and developer tools.
 
 I like work that connects models, backend systems, and usable interfaces.
 
@@ -11,10 +11,17 @@ I like work that connects models, backend systems, and usable interfaces.
 - Docker, Redis, PostgreSQL, Supabase
 - Automation, CLIs, developer tooling, and rapid product prototyping
 
-## Featured Projects
+## Public Projects
+
+### [AI Explainer Reels Factory](https://github.com/RandomArtist22/informational-reels)
+A pipeline for generating short-form educational videos with AI planning, voiceover, assets, captions, and rendering.
+
+- FastAPI backend with Streamlit UI and Remotion renderer
+- LLM-based planning, TTS, asset generation, and final video export
+- Built as a full workflow instead of a single-script demo
 
 ### [Akshara OCR](https://github.com/RandomArtist22/AksharaOCR)
-An OCR pipeline for complex documents with a deployable full-stack architecture.
+A collaborative OCR project for complex documents. This is a team repository, and I’m linking directly to the shared repo page.
 
 - FastAPI backend, React frontend, and Docker-based local stack
 - OCR and inference workflow using PyTorch and ONNX
@@ -33,25 +40,3 @@ A Python CLI for converting Markdown into well-styled PDFs.
 - Built with Typer, WeasyPrint, and typed Python
 - Supports themes, syntax highlighting, tables, footnotes, and batch conversion
 - Good example of packaging and developer-tooling work
-
-### [RE Magic](https://github.com/p-ramcharan-dev/re-marketing)
-A real-estate marketing tool for generating RERA-aware listing copy for Indian property platforms.
-
-- Built with Next.js 16, React 19, Supabase, and Sentry
-- Multilingual listing generation with location-aware context
-- Strong example of product-oriented frontend and backend integration
-
-## Currently Building
-
-- AI Explainer Reels Factory: a FastAPI + Streamlit + Remotion pipeline for generating short-form educational videos with LLM planning, TTS, captioning, and rendering
-
-## What I'm Looking For
-
-I'm especially interested in internships where I can work on:
-
-- AI product engineering
-- backend systems and APIs
-- full-stack product development
-- developer tools or internal platforms
-
-I'm consolidating recent product work from `p-ramcharan-dev` into this account so the portfolio is easier to review.
