@@ -30,11 +30,11 @@ An offline-first quiz platform for live events with host, player, and projector 
 * Supports multi-screen event routing across real devices
 * Includes Cloudflare tunnel support for real-world event deployment
 
-### [markd2pdf](https://github.com/RandomArtist22/markd2pdf)
+### [markd2pdf](https://github.com/RandomArtist22/md2pdf)
 A Python CLI for converting Markdown into well-styled PDFs.
 * Built with Typer, WeasyPrint, and typed Python
 * Supports themes, syntax highlighting, tables, footnotes, and batch conversion
 * Packaging and developer-tooling utility
 
 ---
-[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/p-sai-ramcharan-reddy/)) · [Email](mailto:psairamcharanreddy1@gmail.com)
+[LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/p-sai-ramcharan-reddy/) · [Email](mailto:psairamcharanreddy1@gmail.com)
