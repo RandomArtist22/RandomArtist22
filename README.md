@@ -35,6 +35,3 @@ A Python CLI for converting Markdown into well-styled PDFs.
 * Built with Typer, WeasyPrint, and typed Python
 * Supports themes, syntax highlighting, tables, footnotes, and batch conversion
 * Packaging and developer-tooling utility
-
----
-[LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/p-sai-ramcharan-reddy/) · [Email](mailto:psairamcharanreddy1@gmail.com)
